@@ -1,6 +1,11 @@
 # Homework Projects
 
 Wellcome to my repository "Homework Projects"! Đây là nơi lưu trữ các bài tập lập trình của mình, chủ yếu là C++ và Python (Jupyter Notebooks).
+## Giới thiệu bản thân
+
+## Giới thiệu về tôi
+
+Chào bạn, tôi là **[LÊ ĐỨC ANH]**. Bạn có thể tham khảo thêm về tôi qua CV của tôi tại đây: [Download my CV](CV_K22_SGU_LEDUCANH.pdf).
 
 ## Cấu trúc Dự án
 
@@ -26,3 +31,4 @@ Wellcome to my repository "Homework Projects"! Đây là nơi lưu trữ các b�
 ## Giấy phép
 
 MIT License
+
